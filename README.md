@@ -7,7 +7,7 @@
 
 
 - ✨ My research focus on LiDAR based semantic scene understanding and SLAM.
-- :robot: I am a member of [NuBot](https://www.trustie.net/organizations/23) team and participate in the RoboCup Rescue multiple times from 2021.
+- :robot: I am a member of [NuBot](https://www.trustie.net/organizations/23) team and participate in the RoboCup Rescue competition multiple times from 2021.
 -  :running: Hobbies: basketball, swimming and camping.
 - :email: Contact me: neng.wang@hotmail.com.
 
