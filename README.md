@@ -1,4 +1,4 @@
-## Hi 👋 I am Neng Wang, Welocome!
+## Hi there👋 , welcome to Neng Wang's Github page!
 🔭 I am a PhD candidate at  National University of Defense Technology (NUDT), Changsha, China. I am under the supervision of Prof. Zhiqiang Zheng and receive collaborative guidance from Prof. Huimin Lu and [Assoc. Prof. Xieyuanli Chen](http://xieyuanli-chen.com/).
 
 <picture>
@@ -9,7 +9,7 @@
 - ✨ My research focus on LiDAR based semantic scene understanding and SLAM.
 - :robot: I am a member of [NuBot](https://www.trustie.net/organizations/23) team and participate in the RoboCup Rescue competition multiple times from 2021.
 -  :running: Hobbies: basketball, swimming and camping.
-- :email: Contact me: neng.wang@hotmail.com.
+- :email: Email: neng.wang@hotmail.com.
 
 
 
